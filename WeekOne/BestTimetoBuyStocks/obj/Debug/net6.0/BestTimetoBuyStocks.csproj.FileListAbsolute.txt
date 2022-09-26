@@ -1,0 +1,15 @@
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\bin\Debug\net6.0\BestTimetoBuyStocks.exe
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\bin\Debug\net6.0\BestTimetoBuyStocks.deps.json
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\bin\Debug\net6.0\BestTimetoBuyStocks.runtimeconfig.json
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\bin\Debug\net6.0\BestTimetoBuyStocks.dll
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\bin\Debug\net6.0\BestTimetoBuyStocks.pdb
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.csproj.AssemblyReference.cache
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.AssemblyInfoInputs.cache
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.AssemblyInfo.cs
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.csproj.CoreCompileInputs.cache
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.dll
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\refint\BestTimetoBuyStocks.dll
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.pdb
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\BestTimetoBuyStocks.genruntimeconfig.cache
+D:\Code\Leet\WeekOne\BestTimetoBuyStocks\obj\Debug\net6.0\ref\BestTimetoBuyStocks.dll

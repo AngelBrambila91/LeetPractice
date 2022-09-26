@@ -1,0 +1,15 @@
+D:\Code\Leet\WeekOne\ValidPalindrome\bin\Debug\net6.0\ValidPalindrome.exe
+D:\Code\Leet\WeekOne\ValidPalindrome\bin\Debug\net6.0\ValidPalindrome.deps.json
+D:\Code\Leet\WeekOne\ValidPalindrome\bin\Debug\net6.0\ValidPalindrome.runtimeconfig.json
+D:\Code\Leet\WeekOne\ValidPalindrome\bin\Debug\net6.0\ValidPalindrome.dll
+D:\Code\Leet\WeekOne\ValidPalindrome\bin\Debug\net6.0\ValidPalindrome.pdb
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.csproj.AssemblyReference.cache
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.AssemblyInfoInputs.cache
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.AssemblyInfo.cs
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.csproj.CoreCompileInputs.cache
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.dll
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\refint\ValidPalindrome.dll
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.pdb
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ValidPalindrome.genruntimeconfig.cache
+D:\Code\Leet\WeekOne\ValidPalindrome\obj\Debug\net6.0\ref\ValidPalindrome.dll

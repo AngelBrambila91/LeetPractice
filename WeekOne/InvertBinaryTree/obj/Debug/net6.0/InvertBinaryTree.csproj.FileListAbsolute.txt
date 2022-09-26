@@ -1,0 +1,15 @@
+D:\Code\Leet\WeekOne\InvertBinaryTree\bin\Debug\net6.0\InvertBinaryTree.exe
+D:\Code\Leet\WeekOne\InvertBinaryTree\bin\Debug\net6.0\InvertBinaryTree.deps.json
+D:\Code\Leet\WeekOne\InvertBinaryTree\bin\Debug\net6.0\InvertBinaryTree.runtimeconfig.json
+D:\Code\Leet\WeekOne\InvertBinaryTree\bin\Debug\net6.0\InvertBinaryTree.dll
+D:\Code\Leet\WeekOne\InvertBinaryTree\bin\Debug\net6.0\InvertBinaryTree.pdb
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.csproj.AssemblyReference.cache
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.AssemblyInfoInputs.cache
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.AssemblyInfo.cs
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.csproj.CoreCompileInputs.cache
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.dll
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\refint\InvertBinaryTree.dll
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.pdb
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\InvertBinaryTree.genruntimeconfig.cache
+D:\Code\Leet\WeekOne\InvertBinaryTree\obj\Debug\net6.0\ref\InvertBinaryTree.dll

@@ -1,0 +1,15 @@
+D:\Code\Leet\WeekOne\Parenthesis\bin\Debug\net6.0\Parenthesis.exe
+D:\Code\Leet\WeekOne\Parenthesis\bin\Debug\net6.0\Parenthesis.deps.json
+D:\Code\Leet\WeekOne\Parenthesis\bin\Debug\net6.0\Parenthesis.runtimeconfig.json
+D:\Code\Leet\WeekOne\Parenthesis\bin\Debug\net6.0\Parenthesis.dll
+D:\Code\Leet\WeekOne\Parenthesis\bin\Debug\net6.0\Parenthesis.pdb
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.csproj.AssemblyReference.cache
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.AssemblyInfoInputs.cache
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.AssemblyInfo.cs
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.csproj.CoreCompileInputs.cache
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.dll
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\refint\Parenthesis.dll
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.pdb
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\Parenthesis.genruntimeconfig.cache
+D:\Code\Leet\WeekOne\Parenthesis\obj\Debug\net6.0\ref\Parenthesis.dll
