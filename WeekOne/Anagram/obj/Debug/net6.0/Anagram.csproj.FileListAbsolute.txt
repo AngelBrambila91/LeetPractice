@@ -1,0 +1,15 @@
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\bin\Debug\net6.0\Anagram.exe
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\bin\Debug\net6.0\Anagram.deps.json
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\bin\Debug\net6.0\Anagram.runtimeconfig.json
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\bin\Debug\net6.0\Anagram.dll
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\bin\Debug\net6.0\ref\Anagram.dll
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\bin\Debug\net6.0\Anagram.pdb
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.csproj.AssemblyReference.cache
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfoInputs.cache
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfo.cs
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.dll
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\ref\Anagram.dll
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.pdb
+C:\Users\AngelBrambila\Documents\Code\Leet\WeekOne\Anagram\obj\Debug\net6.0\Anagram.genruntimeconfig.cache
