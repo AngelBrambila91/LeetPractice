@@ -1,0 +1,15 @@
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\bin\Debug\net6.0\ref\BinarySearch.dll
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\Users\AngelBrambila\Documents\Code\LeetPractice\WeekOne\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
